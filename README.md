@@ -23,9 +23,6 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 Abaixo você vai encontrar todas a informações de como criar essa aplicação do zero. Vamos utilizar o projeto [Backend-com-NodeJS](https://github.com/dxwebster/Backend-com-NodeJS) como nosso back-end. O primeiro paso é abrir essa pasta backend e executar o `yarn dev` para manter o servidor rodando. 
 
 Agora vamos criar uma pasta 'mobile' que é onde vamos trabalhar nossa aplicação front-end mobile.
-
-## Instalação das bibliotecas
-
-**Instalar o React Native**: `react-native init`
+Com o comando `react-native init` instalamos um projeto pronto de o React Native para fazer nossa aplicação.
 
 
